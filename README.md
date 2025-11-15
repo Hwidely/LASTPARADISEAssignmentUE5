@@ -3,7 +3,7 @@
 전투 아이템 기획 프로토타입
 
 
-패키징 실행 파일 다운로드 링크: https://drive.google.com/file/d/176Wiby0MCPz_1SMDQGdBbFA98hRuRCbG/view?usp=sharing
+패키징 실행 파일 다운로드 링크: https://drive.google.com/file/d/1tpMwqL9kVM3F5tNojZz1uHtCU59jx8m2/view?usp=sharing
 (바로 플레이 할 수 있도록 실행 파일을 구글 드라이브에 따로 업로드 해두었습니다.)
 
 Unreal Engine Version: 5.6.1 
